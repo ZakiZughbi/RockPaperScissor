@@ -1,4 +1,3 @@
-Certainly! Here's the README file for your Rock Paper Scissors app following the structure you provided:
 Rock Paper Scissors Game
 Introduction
 
